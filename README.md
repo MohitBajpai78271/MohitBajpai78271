@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a Btech student from DTU.<br>I have good skills in iOS Development with swift,swiftui,uikit<br>Also I have good skills for Generative AI, Langchain,Openai<br>
+I’m a B.Tech student at Delhi Technological University (DTU) with strong skills in iOS development using Swift, SwiftUI, and UIKit. I’ve also gained hands-on experience in Generative AI, working with frameworks like LangChain and OpenAI APIs. During my internship with the Delhi Police as an iOS Developer, I contributed to building secure and user-focused mobile applications. I’m continuously expanding my skill set, exploring cloud technologies like AWS EC2, and staying up-to-date with the latest in AI and mobile development.
+<br>
 
 
 ## 🌐 Socials:
